@@ -1,7 +1,5 @@
 # buttai_ninsiki
 物体認識論の最終課題のソースコード
-
- ・urllist.txt(画像URLを入れるテキストファイル)
  
  ・img_dloader.m(画像URLから指定フォルダへ画像保存するためのファイル)
  
